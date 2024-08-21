@@ -3,7 +3,7 @@ A web-based music application built using HTML, CSS, and JavaScript.
 
 Features:
 
-- 80 songs divided into 7 folders, stored in a single folder
+- 22 songs divided into 4 folders, stored in a single folder
 - Folders displayed as cards, with songs displayed as a list (li) on click
 - Search bar functionality to filter songs by character
 - Play/Pause buttons and Next/Previous buttons for seamless music playback
